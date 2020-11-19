@@ -1,0 +1,8 @@
+{
+  "name": "myvapp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue",
+  "id": "d149cb90"
+}
